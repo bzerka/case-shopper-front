@@ -30,7 +30,7 @@ Retorna todos os produtos disponíveis do mercado e suas informações, como nú
 
 A partir do token de autenticação fornecido no login, o usuário é capaz de cadastrar um pedido, informando o nome do cliente, data da entrega e um array com os produtos. Através do token também é passado o nome do usuário para ser armazenado no banco de dados, assim todo pedido registrado terá o nome de quem o registrou (o funcionário, no caso).
 
-- **Visualizar todos os pedidos registrados **
+- **Visualizar todos os pedidos registrados**
 
 A partir do token de autenticação fornecido no login, um usuário pode acessar um histórico contendo todos os pedidos registrados, possuindo acesso ao nome de quem registrou, o nome do cliente, a data de entrega e o preço total.
 

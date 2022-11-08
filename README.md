@@ -2,7 +2,7 @@
 
 Documentação API: https://documenter.getpostman.com/view/21551909/2s83zfRR5q
 
-Surge do frontEnd: https://case-shopper-frontend.surge.sh
+Surge do frontEnd: https://case-shopper-front.surge.sh
 
 **Sobre o projeto**
 
